@@ -1,0 +1,1 @@
+import{a as y}from"./_arrayEach-2ff48152.js";import{cc as A,dm as t,dn as v,dp as w,bZ as F,dq as O,dr as g,ds as h,dt as k}from"./index-c5b2c6d2.js";function q(s,i,r){var n=A(s),a=n||t(s)||v(s);if(i=w(i),r==null){var f=s&&s.constructor;a?r=n?new f:[]:F(s)?r=O(f)?g(h(s)):{}:r={}}return(a?y:k)(s,function(e,d,p){return i(r,e,d,p)}),r}export{q as t};
